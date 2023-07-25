@@ -16,16 +16,19 @@ img {
     font-style: italic;
     text-align: center;
     text-decoration: underline;
+    font-size: 30px;
  }
 
  .info {
     text-align: center;
+    font-size: 20px;
  }
 
 .ingredients {
     text-align: center;
-
+    font-size: 20px;
 }
+
  
 ul {
     list-style-type: none;

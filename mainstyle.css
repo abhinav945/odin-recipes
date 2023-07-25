@@ -16,6 +16,8 @@ h1, h2, ul {
     text-align: center;
     text-decoration:underline;
     list-style-type: none;
+    font-size: 30px;
+
 }
 
 ul {
