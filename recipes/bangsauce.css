@@ -1,0 +1,36 @@
+/* styles for Bang bang sauce recipe */
+body {
+    background-color:bisque;
+}
+
+img {
+    display: block;
+    width: 50%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+ }
+
+ .info {
+    text-align: center;
+ }
+
+.ingredients {
+    text-align: center;
+
+}
+ 
+ul {
+    list-style-type: none;
+}
+
+* {
+    line-height: 30px;
+}
